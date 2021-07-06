@@ -142,7 +142,7 @@ See the [open issues](https://github.com/WarMac4964/ShopUI-Concept/issues) for a
 
 Anurag Tyagi - [@capttyg](https://www.instagram.com/capttyg/) - anurag.tyagi4964@gmail.com
 
-Project Link: [https://github.com/WarMac4964/EditorX_Pro](https://github.com/WarMac4964/ShopUI-Concept)
+Project Link: [https://github.com/WarMac4964/ShopUI-Concept](https://github.com/WarMac4964/ShopUI-Concept)
 
 [contributors-shield]: https://img.shields.io/github/contributors/WarMac4964/ShopUI-Concept.svg?style=for-the-badge
 [contributors-url]: https://github.com/WarMac4964/ShopUI-Concept/graphs/contributors
